@@ -7,9 +7,9 @@ use LeanCloud\Engine\LeanEngine;
 use LeanCloud\Engine\Cloud;
 
 Client::initialize(
-    '6LXne5XRbSQLmG3rwLmC9TdM-gzGzoHsz',
-    'xEhlLPpmOAKCNM4TnpTdsvEX',
-    'rl2BJdmke7Q5kXMgFSIV1AIW'
+    'YdM3seVziUONl3SeKSghJL9t-gzGzoHsz',
+    'R6TmpO2LKDPzADQlVdFfNt2B',
+    '3reQoMfJM9l8eWDbnxjkDqqO'
 );
 
 
